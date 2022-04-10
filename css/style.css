@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#header{
+  background: #000;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+
+}
+#header a {
+  padding-top: 35px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+}
+main{
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  background-color: #2B2B2B;
+  text-align: center;
+}
+main p{
+  font-size: 26px;
+}
+.container-alvo{
+  margin:200px 0;
+  background-color: #fff;
+}
+footer {
+  background: #eaf2fd;
+}
+.content-footer {
+  text-align: center;
+  font-weight: bold;
+}
